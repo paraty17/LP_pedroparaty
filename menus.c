@@ -9,7 +9,6 @@
 #include "menus.h"
 #include "logs.h"
 
-#define LINE "-----------------------"
 #define LOGS_FILE             "logs.txt"
 #define CLIENTES_DB_FILE      "clientes.bin"
 #define RESERVAS_DB_FILE      "reservas.bin"
